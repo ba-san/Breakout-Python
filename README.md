@@ -3,7 +3,7 @@
 Simple Breakout game implementated in Python.  
 I used backgound image from [here](https://unsplash.com/photos/wupbTQkArcU).  
   
-<img src="https://user-images.githubusercontent.com/44015510/56955780-45582780-6b7d-11e9-8a73-d330f8260d17.png" width="400">
+<img src="https://user-images.githubusercontent.com/44015510/57989605-1ed04100-7ad8-11e9-9310-e721853b0f94.gif" width="400">
 
 ## How to 
 ``` 
